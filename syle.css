@@ -1,0 +1,19 @@
+#green{
+    background-color: green;
+    color: white;
+}
+#red{
+    background-color: red;
+    color: white;
+}
+#blue{
+    background-color: blue;
+    color: white;
+}
+button {
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    font-size: large;
+    cursor: pointer;
+}
